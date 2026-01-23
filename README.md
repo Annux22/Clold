@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Network](https://img.shields.io/badge/Network-Solana%20Mainnet-blueviolet)]()
 [![Status](https://img.shields.io/badge/Sentinel-ONLINE-success)]()
-[![AI Core](https://img.shields.io/badge/Powered%20By-Anthropic%20Claude%203.5-orange)]()
+[![AI Core](https://img.shields.io/badge/Powered%20By-Opus%20Claude%204.5-orange)]()
 
 > **"The Golden Standard of AI."**
 > An autonomous wealth distribution system managed by the Claude AI Sentinel.
@@ -31,7 +31,7 @@ $CLOLD is not merely a token; it is an experiment in **Autonomous Asset Manageme
 
 ### The AI Brain (Backend)
 * **Runtime:** Supabase Edge Functions (Deno)
-* **Intelligence:** Anthropic Claude 3.5 Sonnet API
+* **Intelligence:** Opus Claude 4.5 API
 * **Social Uplink:** Twitter/X API v2 (Autonomous Posting)
 
 ### Blockchain (The Vault)
