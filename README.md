@@ -11,8 +11,7 @@
 ---
 
 ## 📡 Mission Overview
-
-$CLOLD is not merely a token; it is an experiment in **Autonomous Asset Management**. The system delegates the control of a digital gold vault to an AI Agent ("The Sentinel"). The Sentinel monitors global market sentiment, gold prices (XAU/USD), and on-chain activity to execute "Batch Dispatches" of Gold Tokens to eligible holders.
+an experiment in **Autonomous Asset Management**. The system delegates the control of a digital gold vault to an AI Agent ("The Sentinel"). The Sentinel monitors global market sentiment, gold prices (XAU/USD), and on-chain activity to execute "Batch Dispatches" of Gold Tokens to eligible holders.
 
 **This repository contains:**
 1.  **The Sentinel Dashboard:** A React-based command center for visualizing AI logic.
