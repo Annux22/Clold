@@ -1,4 +1,4 @@
-# $CLOLD: Gold by Claude // Sentinel System V1.0
+ // Sentinel System V1.0
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Network](https://img.shields.io/badge/Network-Solana%20Mainnet-blueviolet)]()
